@@ -6,12 +6,12 @@ Authors: Marcos Moreno Blanco and Adrià Torralba Agell
 
 In this folder you will find:
 
-**main.pdf**, where we summarise our work, 
+**PFM.pdf**, where we summarise oand explain our work. 
 
 **Mixed_Model.ipynb**, a notebook with all the code necessary to load, train and test the final Mixed Model (NRT) and (RT), along with code used to perform feature importance plots.
 
 **Text_Based_Model.ipynb**, a notebook with
 
-**Non_Text_Based_Model.ipynb**, a notebook with all the code necessary to load, train and test the final Non-Text Based Model, along with code used to perform feature importance plots.
+**Non_Text_Based_Model.ipynb**, a notebook with all the code necessary to load, train and test the final Non-Text Based Model, along with code used to perform feature importance plots. It can be run sequentally or starting at either Train or Test sections.
 
 **DataExploration/** a folder containing **data_exploration.ipynb** and **data_exploration_validation.ipynb**, notebooks containing the code used to perform some exploration of the subsampling and the validation data that we used to train our models.
