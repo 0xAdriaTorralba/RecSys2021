@@ -10,7 +10,7 @@ Recommendation systems is an interesting and wide field of research and it is pr
 
 In this folder you will find:
 
-**PFM.pdf**, where we summarise oand explain our work. 
+**PFM.pdf**, where we summarise and explain our work. 
 
 **Mixed_Model.ipynb**, a notebook with all the code necessary to load, train and test the final Mixed Model (NRT) and (RT), along with code used to perform feature importance plots.
 
